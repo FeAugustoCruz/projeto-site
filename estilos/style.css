@@ -12,3 +12,8 @@ main{
     padding: 10px;
     box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.514);
 }
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+}
