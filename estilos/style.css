@@ -14,6 +14,26 @@ main{
 }
 
 h1 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: brown;
+    font-size: 2em;
+    color: rgb(58, 0, 112);
+}
+
+h2 {
+    font-size: 1.5em;
+    color: rgb(58, 0, 112);
+}
+
+img.lado {
+    float: right;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(58, 0, 112);
+}
+
+a:hover {
+    text-decoration: underline;
+    color: rgb(26, 26, 255);
 }
